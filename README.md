@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pranjal-raj
 - 👀 I’m interested in Development 
 - 🌱 I’m currently learning Android Devlopment
-- 💞️ I’m looking to collaborate on Android Related Projects (JAVA only)
+- 💞️ I’m looking to collaborate on Android Related Projects (JAVA & Kotlin)
 - 📫 How to reach me @prayank8c@gmail.com
 
 <!---
